@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{172:function(t,e,n){"use strict";n.r(e);var r={name:"HomeId",data:function(){return{type:this.$route.params.type}}},o=n(16),component=Object(o.a)(r,function(){var t=this.$createElement;return(this._self._c||t)("div",[this._v(this._s(this.type))])},[],!1,null,"624efd51",null);e.default=component.exports}}]);
